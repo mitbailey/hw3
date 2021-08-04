@@ -10,7 +10,7 @@ The containing folder can be found at
 https://github.com/mitbailey/hw3  
   
 The webpage can be found at  
-https://mitbailey.github.io/hw3/hw3.html  
+https://mitbailey.github.io/hw3/  
 
 The simple example found in requirement 10 under the "What You Are To Do" section was not viewed. 
   
